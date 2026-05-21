@@ -1,0 +1,6 @@
+{
+  "base_dir": ".",
+  "llm_url": "http://YOUR_HOST:YOUR_PORT/v1/chat/completions",
+  "llm_model": "YOUR_MODEL_NAME",
+  "llm_health_url": "http://YOUR_HOST:YOUR_PORT/v1/models"
+}
