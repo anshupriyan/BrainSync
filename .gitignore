@@ -4,9 +4,6 @@
 .processed_ids.json
 
 # User data (generated at runtime — not part of the repo)
-vault/claude/
-vault/chatgpt/
-incoming/*.zip
 
 # Obsidian
 vault/.obsidian/
