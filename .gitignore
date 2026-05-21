@@ -2,9 +2,6 @@
 .brain_state.json
 .pending_tagging.json
 .processed_ids.json
-
-# User data (generated at runtime — not part of the repo)
-
 # Obsidian
 vault/.obsidian/
 
