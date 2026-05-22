@@ -1,5 +1,4 @@
-# 🧠 Brain Sync
-## Local AI Memory Infrastructure for Obsidian
+# 🧠 Brain Sync (Local AI Memory Infrastructure for Obsidian)
 **export conversations into markdown**
 
 **Sync, tag, and cross-link your ChatGPT & Claude conversation exports into an Obsidian vault — powered entirely by a local LLM running on your own machine. No API keys, no cloud, no costs, full privacy.**
